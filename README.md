@@ -1,3 +1,6 @@
+
+![Pixel art sky background](https://github.com/kieter/kieter/assets/17482064/153e928b-0349-4d04-87d4-929e173b2dd8)
+
 ## Hi there 👋
 
 <!--
